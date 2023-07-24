@@ -2,7 +2,7 @@
 This repository contains code for our MLHC 2023 paper [Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding](https://arxiv.org/abs/2304.05368)
 
 ## Datasets
-All datasets used for experiments can be downloaded in §blue[/datasets] folder. They include:
+All datasets used for experiments can be downloaded in ```diff #/datasets''' folder. They include:
 | Task | Dataset | Output | Metric |
 |------|---------|--------|--------|
 | Named Entity Recognition | NCBI-Disease, BC5CDR-Chemical | BIO tagging for diseases and chemicals | Micro F1 |
@@ -13,7 +13,7 @@ All datasets used for experiments can be downloaded in §blue[/datasets] folder.
 | Question-Answering | bioASQ 10b-Factoid | Factoid answers | Mean Reciprocal Rank, Lenient Accuracy |
 
 ## Experimental Results
-Representative results of each dataset can be found in §blue[/results] folder. 
+Representative results of each dataset can be found in ```diff #/results''' folder. 
 For each .csv file, they include the following rows from left to right:
 - text: input text for model
 - gold label: ground truth answer
