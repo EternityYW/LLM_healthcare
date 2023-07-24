@@ -1,4 +1,4 @@
-# LLM_healthcare
+# Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding
 This repository contains code for our MLHC 2023 paper [Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding](https://arxiv.org/abs/2304.05368)
 
 ## Datasets
