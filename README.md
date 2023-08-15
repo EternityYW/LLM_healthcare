@@ -30,6 +30,9 @@ For each .csv file, they include the following rows from left to right:
 - GPT4_0/5_SQP_pred: 0/5-shot learning prediction result with GPT4 using SQP
 - GPT3.5_0/5_SQP_pred: 0/5-shot learning prediction result with GPT3.5 using SQP
 
+## Prompts
+See Appendix section in the paper.
+
 ## Citation
 If you find this work helpful, please consider citing as follows:  
 
