@@ -29,3 +29,15 @@ For each .csv file, they include the following rows from left to right:
 - BARD_0/5_SQP_pred: 0/5-shot learning prediction result with Bard using SQP
 - GPT4_0/5_SQP_pred: 0/5-shot learning prediction result with GPT4 using SQP
 - GPT3.5_0/5_SQP_pred: 0/5-shot learning prediction result with GPT3.5 using SQP
+
+## Citation
+If you find this work helpful, please consider citing as follows:  
+
+```ruby
+@article{wang2023large,
+  title={Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding},
+  author={Wang, Yuqing and Zhao, Yun and Petzold, Linda},
+  journal={arXiv preprint arXiv:2304.05368},
+  year={2023}
+}
+```
