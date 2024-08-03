@@ -37,10 +37,12 @@ See Appendix section in the paper.
 If you find this work helpful, please consider citing as follows:  
 
 ```ruby
-@article{wang2023large,
-  title={Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding},
+@inproceedings{wang2023large,
+  title={Are large language models ready for healthcare? a comparative study on clinical language understanding},
   author={Wang, Yuqing and Zhao, Yun and Petzold, Linda},
-  journal={arXiv preprint arXiv:2304.05368},
-  year={2023}
+  booktitle={Machine Learning for Healthcare Conference},
+  pages={804--823},
+  year={2023},
+  organization={PMLR}
 }
 ```
